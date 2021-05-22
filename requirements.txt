@@ -1,0 +1,4 @@
+tqdm==4.47.0
+numpy==1.19.0
+tabulate==0.8.7
+scipy==1.5.2
