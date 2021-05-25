@@ -1,7 +1,7 @@
 
 # Post-Training Sparsity-Aware Quantization
 
-This repository is the official implementation of [Post-Training Sparsity-Aware Quantization](https://arxiv.org/abs/2030.12345). 
+This repository is the official implementation of [Post-Training Sparsity-Aware Quantization](https://arxiv.org/abs/2105.11010). 
 ```cite
 @article{shomron2020sparq,
   title={Post-Training Sparsity-Aware Quantization},
