@@ -2,6 +2,14 @@
 # Post-Training Sparsity-Aware Quantization
 
 This repository is the official implementation of [Post-Training Sparsity-Aware Quantization](https://arxiv.org/abs/2030.12345). 
+```cite
+@article{shomron2020sparq,
+  title={Post-Training Sparsity-Aware Quantization},
+  author={Shomron, Gil and Gabbay, Freddy and Kurzum, Samer and Weiser, Uri},
+  journal={arXiv preprint arXiv:2105.11010},
+  year={2021}
+}
+```
 
 ## Requirements
 
