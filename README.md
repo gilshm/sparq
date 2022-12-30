@@ -62,8 +62,8 @@ The pruned models can be downloaded from the links in the table below.
 
 | Model     | Top-1  | Download | 
 |-----------|--------|----------|
-| ResNet-18 | 69.77% | [Link](https://technionmail-my.sharepoint.com/:u:/g/personal/gilsho_campus_technion_ac_il/EXxRixkzwvtDpQX8MLZw9EcBhjEUgqZUfpv0PJz6pa3ZZg?e=afdmjg) |
-| ResNet-50 | 76.16% | [Link](https://technionmail-my.sharepoint.com/:u:/g/personal/gilsho_campus_technion_ac_il/ER1cPJvnxrdJps-PSqJWdx4BjpiSX1_ecMPMmIXl2OBfbA?e=bxddnR) |
-| ResNet-101| 77.38% | [Link](https://technionmail-my.sharepoint.com/:u:/g/personal/gilsho_campus_technion_ac_il/EYYvGG7trE1HsD1AzwZFa94BGxqlwBsy0-8V7W5TDICx_A?e=WgGuja) |
+| ResNet-18 | 69.77% | [Link](https://1drv.ms/u/s!AuzzrV6-QBcdjAjISLGlWylQfURy?e=ddvchc) |
+| ResNet-50 | 76.16% | [Link](https://1drv.ms/u/s!AuzzrV6-QBcdjAkr1ffRgkPqEQvm?e=IBhtRU) |
+| ResNet-101| 77.38% | [Link](https://1drv.ms/u/s!AuzzrV6-QBcdjAqeno50xTc2QsRx?e=y37MEX) |
 
 To evaluate SPARQ on top of the pruned models, quantize the models as before, and add `--stc` flag to the evaluation command line.
