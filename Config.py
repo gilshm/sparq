@@ -36,6 +36,6 @@ DATASETS = {'cifar10':
             'cifar100':
                 {'ptr': CIFAR100, 'dir': os.path.join(basedir, 'datasets')},
             'imagenet':
-                {'ptr': ImageNet, 'dir': '/mnt/p3700/gilsho/ilsvrc2012'}}
+                {'ptr': ImageNet, 'dir': '/mnt/ilsvrc2012'}}
 
 LOG = Logger()

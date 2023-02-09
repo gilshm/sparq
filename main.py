@@ -6,7 +6,7 @@ import sys
 import Config as cfg
 from NeuralNet import NeuralNet
 from Datasets import Datasets
-
+import qtorch
 
 parser = argparse.ArgumentParser(description='Gil Shomron, gilsho@campus.technion.ac.il',
                                  formatter_class=argparse.RawTextHelpFormatter)
