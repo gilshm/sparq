@@ -1,0 +1,2 @@
+vlib.exe work
+vlog.exe ./src/IntMult.sv ./verif/IntMultTb.sv ./src/FpMult.sv ./verif/FpMultTb.sv -sv

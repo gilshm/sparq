@@ -1,0 +1,1 @@
+vsim.exe work.FpMultTb -c -do "run -all"
